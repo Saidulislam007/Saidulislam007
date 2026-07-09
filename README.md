@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Saidul Islam
 
-<p align="center">
-  <!-- Banner Image: Modern tech gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=40&animation=fadeIn" width="100%" alt="Banner" />
-</p>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <!-- বাম পাশে ব্যানারের টেক্সট বা গ্রাফিক্স -->
+    <td width="75%" align="left" valign="middle">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=35&animation=fadeIn" width="100%" alt="Banner" />
+    </td>
+    <!-- ডান পাশে আপনার প্রোফাইল পিকচার -->
+    <td width="25%" align="right" valign="middle" style="padding-left: 15px;">
+      <img src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://ibb.co.com/kgM4TXq1)" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 4px solid #007ACC;" alt="Saidul Islam" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Full-Stack Engineer | MERN & Next.js
 Full-Stack Engineer building high-performance web apps with the MERN stack & Next.js. Focused on fluid frontends, secure auth, and optimized backends. Let’s ship.
