@@ -1,19 +1,11 @@
 # 👋 Hi, I'm Saidul Islam
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <!-- বাম পাশে ব্যানারের টেক্সট বা গ্রাফিক্স -->
-    <td width="75%" align="left" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=35&animation=fadeIn" width="100%" alt="Banner" />
-    </td>
-    <!-- ডান পাশে ব্যানারের ওপর ছবি ভাসিয়ে রাখার জন্য -->
-    <td width="25%" align="right" valign="middle">
-      <div style="margin-top: -60px; padding-right: 10px;">
-        <img src="https://i.ibb.co.com/XZV7PtF8/unnamed.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" alt="Saidul Islam" />
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- বাম পাশে ব্যানার টেক্সট এবং ডান পাশে তোমার ছবি ফ্লোট করার জন্য -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Full-Stack%20Web%20Engineer&fontSize=35&animation=fadeIn" width="75%" align="left" alt="Banner" />
+  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #007ACC; margin-top: 10px;" align="right" alt="Saidul Islam" />
+</p>
+<br clear="both" />
 
 ## 🚀 Full-Stack Engineer | MERN & Next.js
 Full-Stack Engineer building high-performance web apps with the MERN stack & Next.js. Focused on fluid frontends, secure auth, and optimized backends. Let’s ship.
