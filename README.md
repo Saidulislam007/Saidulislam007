@@ -9,7 +9,7 @@
     <!-- ডান পাশে ব্যানারের ওপর ছবি ভাসিয়ে রাখার জন্য -->
     <td width="25%" align="right" valign="middle">
       <div style="margin-top: -60px; padding-right: 10px;">
-        <img src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://i.ibb.co.com/XZV7PtF8/unnamed.jpg)" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" alt="Saidul Islam" />
+        <img src="https://i.ibb.co.com/XZV7PtF8/unnamed.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" alt="Saidul Islam" />
       </div>
     </td>
   </tr>
