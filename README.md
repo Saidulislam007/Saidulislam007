@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saidul Islam
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?title=Full-Stack%20Web%20Engineer&subtitle=MERN%20%7C%20Next.js%20%7C%20UI%20Architecture&[image=https%3A%2F%2Fgithub.com%2Fsaidul007.png](https://i.ibb.co.com/XZV7PtF8/unnamed.jpg)&theme=dark&width=1200&height=400&circle=true" width="100%" alt="Saidul Islam - Full Stack Web Engineer" />
+  <img src="https://svg-banners.vercel.app/api?title=Full-Stack%20Web%20Engineer&subtitle=MERN%20%7C%20Next.js%20%7C%20UI%20Architecture&image=https%3A%2F%2Fi.ibb.co.com%2FXZV7PtF8%2Funnamed.jpg&theme=dark&width=1200&height=400&circle=true" width="100%" alt="Saidul Islam - Full Stack Web Engineer" />
 </p>
 
 ## 🚀 Full-Stack Engineer | MERN & Next.js
