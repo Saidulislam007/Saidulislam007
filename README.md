@@ -1,21 +1,8 @@
 # 👋 Hi, I'm Saidul Islam
 <p align="center">
-  <picture>
-    <!-- ডার্ক এবং লাইট মোড উভয়ের জন্যই ব্যাকগ্রাউন্ড গ্রেডিয়েন্ট ব্যানার -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:8A2BE2&height=220&section=header&text=Full-Stack%20Web%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:8A2BE2&height=220&section=header&text=Full-Stack%20Web%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner" align="center" />
-  </picture>
+  <!-- Banner Image: Modern tech gradient banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=40&animation=fadeIn" width="100%" alt="Banner" />
 </p>
-
-<!-- আপনার ছবিটিকে ঠিক ব্যানারের নিচেই সুন্দর রাউন্ড ফ্রেমে সেন্টারে দেখানোর জন্য -->
-<p align="center">
-  <img src="https://i.ibb.co.com/XZV7PtF8/unnamed.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 4px solid #007ACC; margin-top: -110px; position: relative; z-index: 10; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Saidul Islam" />
-</p>
-
-<p align="center">
-  <sub><b>MERN Stack | Next.js | UI Architecture</b></sub>
-</p>
-<br />
 
 ## 🚀 Full-Stack Engineer | MERN & Next.js
 Full-Stack Engineer building high-performance web apps with the MERN stack & Next.js. Focused on fluid frontends, secure auth, and optimized backends. Let’s ship.
