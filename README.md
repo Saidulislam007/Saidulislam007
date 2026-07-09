@@ -6,9 +6,11 @@
     <td width="75%" align="left" valign="middle">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=35&animation=fadeIn" width="100%" alt="Banner" />
     </td>
-    <!-- ডান পাশে আপনার প্রোফাইল পিকচার -->
-    <td width="25%" align="right" valign="middle" style="padding-left: 15px;">
-      <img src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://ibb.co.com/kgM4TXq1)" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 4px solid #007ACC;" alt="Saidul Islam" />
+    <!-- ডান পাশে ব্যানারের ওপর ছবি ভাসিয়ে রাখার জন্য -->
+    <td width="25%" align="right" valign="middle">
+      <div style="margin-top: -60px; padding-right: 10px;">
+        <img src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://i.ibb.co.com/XZV7PtF8/unnamed.jpg)" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" alt="Saidul Islam" />
+      </div>
     </td>
   </tr>
 </table>
