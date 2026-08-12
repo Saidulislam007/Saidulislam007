@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Saidul Islam Bento Engineer profile summary</title>
+  <desc id="desc">Bento cards covering about, focus, stack, education and availability.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1829"/>
+      <stop offset="1" stop-color="#081321"/>
+    </linearGradient>
+    <linearGradient id="accentCard" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b2030"/>
+      <stop offset="1" stop-color="#081521"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .section{font:700 17px 'Segoe UI',Arial,sans-serif;letter-spacing:1.1px;fill:#67e8f9}
+    .title{font:750 24px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
+    .body{font:400 17px 'Segoe UI',Arial,sans-serif;fill:#a8b7c8}
+    .small{font:500 15px 'Segoe UI',Arial,sans-serif;fill:#91a4b8}
+    .label{font:650 15px 'Segoe UI',Arial,sans-serif;fill:#dbeafe}
+    .value{font:750 24px 'Segoe UI',Arial,sans-serif;fill:#38bdf8}
+    .green{fill:#4ade80}.cyan{fill:#22d3ee}.muted{fill:#64748b}
+    .card{animation:enter .8s ease-out both}.c2{animation-delay:.1s}.c3{animation-delay:.2s}.c4{animation-delay:.3s}.c5{animation-delay:.4s}
+    .blink{animation:blink 1.8s ease-in-out infinite}.flow{stroke-dasharray:7 10;animation:flow 7s linear infinite}.shine{animation:shine 4s ease-in-out infinite}
+    @keyframes enter{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes flow{to{stroke-dashoffset:-180}}
+    @keyframes shine{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+
+  <rect width="1200" height="820" fill="#070d16"/>
+
+  <!-- About -->
+  <g class="card">
+    <rect x="0" y="0" width="378" height="430" rx="22" fill="url(#card)" stroke="#1e3b51"/>
+    <circle cx="42" cy="42" r="20" fill="#0b2b39" stroke="#15546a"/>
+    <path d="M42 31a7 7 0 1 1 0 14 7 7 0 0 1 0-14Zm-12 28c1-7 6-11 12-11s11 4 12 11" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="76" y="38" class="section">ABOUT</text>
+    <text x="76" y="62" class="title">Who I am</text>
+    <text x="28" y="118" class="body">
+      <tspan x="28" dy="0">Full-Stack Developer who turns</tspan>
+      <tspan x="28" dy="28">ideas into dependable, scalable</tspan>
+      <tspan x="28" dy="28">and user-friendly web products.</tspan>
+      <tspan x="28" dy="39">I care about clean architecture,</tspan>
+      <tspan x="28" dy="28">secure authentication, thoughtful</tspan>
+      <tspan x="28" dy="28">UI and maintainable code.</tspan>
+    </text>
+    <line x1="28" y1="322" x2="350" y2="322" stroke="#1d3a4e"/>
+    <g transform="translate(28 348)">
+      <circle cx="7" cy="7" r="6" fill="#22d3ee"/>
+      <text x="24" y="12" class="label">Problem solver</text>
+      <circle cx="7" cy="41" r="6" fill="#38bdf8"/>
+      <text x="24" y="46" class="label">Continuous learner</text>
+    </g>
+  </g>
+
+  <!-- Current focus -->
+  <g class="card c2">
+    <rect x="394" y="0" width="378" height="430" rx="22" fill="url(#card)" stroke="#1e3b51"/>
+    <circle cx="436" cy="42" r="20" fill="#0b2b39" stroke="#15546a"/>
+    <path d="m425 47 11-11 7 7 10-10M447 33h6v6" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="470" y="38" class="section">CURRENT FOCUS</text>
+    <text x="470" y="62" class="title">What I build</text>
+    <g transform="translate(422 104)">
+      <rect width="322" height="70" rx="14" fill="#0a1e2d" stroke="#174156"/>
+      <circle cx="28" cy="35" r="10" fill="#0e3b4b"/><path d="m23 35 4 4 7-9" fill="none" stroke="#22d3ee" stroke-width="2.4"/>
+      <text x="52" y="30" class="label">Production-ready applications</text>
+      <text x="52" y="52" class="small">Scalable features and clean flows</text>
+    </g>
+    <g transform="translate(422 188)">
+      <rect width="322" height="70" rx="14" fill="#0a1e2d" stroke="#174156"/>
+      <circle cx="28" cy="35" r="10" fill="#0e3b4b"/><path d="M23 35h10M28 30v10" stroke="#22d3ee" stroke-width="2.4"/>
+      <text x="52" y="30" class="label">Backend &amp; REST APIs</text>
+      <text x="52" y="52" class="small">Reliable endpoints and data models</text>
+    </g>
+    <g transform="translate(422 272)">
+      <rect width="322" height="70" rx="14" fill="#0a1e2d" stroke="#174156"/>
+      <circle cx="28" cy="35" r="10" fill="#0e3b4b"/><path d="M28 27c6 3 7 4 7 9 0 5-3 8-7 10-4-2-7-5-7-10 0-5 1-6 7-9Z" fill="none" stroke="#22d3ee" stroke-width="2"/>
+      <text x="52" y="30" class="label">Authentication &amp; security</text>
+      <text x="52" y="52" class="small">JWT, RBAC and safer web systems</text>
+    </g>
+    <path class="flow" d="M450 369h255" stroke="#22d3ee" stroke-opacity=".5" stroke-width="2"/>
+    <circle class="blink" cx="716" cy="369" r="6" fill="#22d3ee" filter="url(#glow)"/>
+  </g>
+
+  <!-- Core stack -->
+  <g class="card c3">
+    <rect x="788" y="0" width="412" height="430" rx="22" fill="url(#accentCard)" stroke="#1e4c63"/>
+    <circle cx="830" cy="42" r="20" fill="#0b2b39" stroke="#15546a"/>
+    <path d="m818 39 12-7 12 7-12 7-12-7Zm0 8 12 7 12-7M818 55l12 7 12-7" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linejoin="round"/>
+    <text x="864" y="38" class="section">CORE STACK</text>
+    <text x="864" y="62" class="title">Tools I use</text>
+    <g transform="translate(816 102)">
+      <g><rect width="168" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#111827" stroke="#e2e8f0"/><text x="19" y="33" class="label">N</text><text x="52" y="33" class="label">Next.js</text></g>
+      <g transform="translate(182 0)"><rect width="186" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#082f49"/><text x="19" y="33" class="label">JS</text><text x="52" y="33" class="label">JavaScript</text></g>
+      <g transform="translate(0 68)"><rect width="168" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#0c4a6e"/><text x="18" y="33" class="label">R</text><text x="52" y="33" class="label">React</text></g>
+      <g transform="translate(182 68)"><rect width="186" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#0f3c35"/><text x="18" y="33" class="label">N</text><text x="52" y="33" class="label">Node.js</text></g>
+      <g transform="translate(0 136)"><rect width="168" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#134e4a"/><text x="17" y="33" class="label">Ex</text><text x="52" y="33" class="label">Express</text></g>
+      <g transform="translate(182 136)"><rect width="186" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#14532d"/><text x="17" y="33" class="label">M</text><text x="52" y="33" class="label">MongoDB</text></g>
+      <g transform="translate(0 204)"><rect width="168" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#164e63"/><text x="18" y="33" class="label">T</text><text x="52" y="33" class="label">Tailwind</text></g>
+      <g transform="translate(182 204)"><rect width="186" height="54" rx="12" fill="#081824" stroke="#1a4a60"/><circle cx="26" cy="27" r="15" fill="#312e81"/><text x="19" y="33" class="label">F</text><text x="52" y="33" class="label">Framer Motion</text></g>
+    </g>
+  </g>
+
+  <!-- Education -->
+  <g class="card c4">
+    <rect x="0" y="448" width="774" height="372" rx="22" fill="url(#card)" stroke="#1e3b51"/>
+    <circle cx="42" cy="490" r="20" fill="#0b2b39" stroke="#15546a"/>
+    <path d="m29 486 13-7 13 7-13 7-13-7Zm5 5v9c6 5 11 5 16 0v-9" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linejoin="round"/>
+    <text x="76" y="486" class="section">EDUCATION</text>
+    <text x="76" y="510" class="title">Academic background</text>
+    <path d="M62 556v206" stroke="#1f5369" stroke-width="2"/>
+    <g transform="translate(62 577)">
+      <circle r="8" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="30" y="-2" class="title">B.Sc. Honours in Mathematics</text>
+      <text x="30" y="25" class="body">Structured thinking • analytical problem-solving • logic</text>
+    </g>
+    <g transform="translate(62 664)">
+      <circle r="8" fill="#38bdf8"/>
+      <text x="30" y="-2" class="title">Higher Secondary Certificate (HSC)</text>
+      <text x="30" y="25" class="body">Completed academic higher-secondary education</text>
+    </g>
+    <g transform="translate(62 751)">
+      <circle r="8" fill="#60a5fa"/>
+      <text x="30" y="-2" class="title">Secondary School Certificate (SSC)</text>
+      <text x="30" y="25" class="body">Completed secondary education</text>
+    </g>
+  </g>
+
+  <!-- Availability -->
+  <g class="card c5">
+    <rect x="790" y="448" width="410" height="372" rx="22" fill="url(#accentCard)" stroke="#1e4c63"/>
+    <circle cx="832" cy="490" r="20" fill="#0b2b39" stroke="#15546a"/>
+    <circle class="blink" cx="832" cy="490" r="8" fill="#22c55e"/>
+    <text x="866" y="486" class="section">AVAILABILITY</text>
+    <text x="818" y="550" class="value">Open to new opportunities</text>
+    <text x="818" y="586" class="body">Full-time • Internship • Remote</text>
+    <rect x="818" y="625" width="354" height="82" rx="16" fill="#071b27" stroke="#1f5267"/>
+    <text x="842" y="657" class="label">Recruiter-friendly profile</text>
+    <text x="842" y="683" class="small">Ready to contribute, learn and ship.</text>
+    <g transform="translate(818 738)">
+      <rect width="354" height="50" rx="14" fill="url(#bar)"/>
+      <text x="104" y="32" style="font:700 16px 'Segoe UI',Arial,sans-serif;fill:#04111d">LET&apos;S BUILD TOGETHER  →</text>
+    </g>
+  </g>
+</svg>

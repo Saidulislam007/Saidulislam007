@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Technical skills</title>
+  <desc id="desc">Saidul Islam's frontend, backend, database and platform skills.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#07111e"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  </defs>
+  <style>
+    .eyebrow{font:700 16px 'Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#67e8f9}
+    .heading{font:750 26px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
+    .group{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#e0f2fe}
+    .skill{font:550 15px 'Segoe UI',Arial,sans-serif;fill:#b8c6d6}
+    .card{animation:up .75s ease-out both}.d2{animation-delay:.12s}.d3{animation-delay:.24s}.d4{animation-delay:.36s}
+    .scan{animation:scan 4s linear infinite}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes scan{0%{transform:translateX(-240px)}100%{transform:translateX(1200px)}}
+  </style>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#1e3b51"/>
+  <text x="34" y="42" class="eyebrow">TECHNICAL EXPERTISE</text>
+  <text x="34" y="76" class="heading">One developer. The complete stack.</text>
+  <rect x="34" y="96" width="1132" height="2" fill="#17364b"/>
+  <rect class="scan" x="34" y="96" width="240" height="2" fill="url(#line)"/>
+
+  <g class="card" transform="translate(34 124)">
+    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
+    <circle cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M22 34h20M27 27l-7 7 7 7M37 27l7 7-7 7" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <text x="60" y="40" class="group">Frontend</text>
+    <text x="24" y="85" class="skill">React • Next.js • JavaScript</text>
+    <text x="24" y="119" class="skill">HTML5 • CSS3 • Tailwind CSS</text>
+    <text x="24" y="153" class="skill">Framer Motion • Lucide React</text>
+    <text x="24" y="187" class="skill">Responsive UI • Accessibility</text>
+  </g>
+  <g class="card d2" transform="translate(322 124)">
+    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
+    <circle cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M23 26h18v16H23zM27 31h10M27 36h6" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <text x="60" y="40" class="group">Backend</text>
+    <text x="24" y="85" class="skill">Node.js • Express.js</text>
+    <text x="24" y="119" class="skill">REST API • Middleware</text>
+    <text x="24" y="153" class="skill">JWT • Web Security</text>
+    <text x="24" y="187" class="skill">Authentication • Authorization</text>
+  </g>
+  <g class="card d3" transform="translate(610 124)">
+    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
+    <circle cx="32" cy="34" r="17" fill="#0b2c3a"/><ellipse cx="32" cy="28" rx="9" ry="4" fill="none" stroke="#22d3ee" stroke-width="2"/><path d="M23 28v12c0 5 18 5 18 0V28M23 34c0 5 18 5 18 0" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <text x="60" y="40" class="group">Database &amp; Services</text>
+    <text x="24" y="85" class="skill">MongoDB • Mongoose</text>
+    <text x="24" y="119" class="skill">Firebase • Data modeling</text>
+    <text x="24" y="153" class="skill">CRUD • Query optimization</text>
+    <text x="24" y="187" class="skill">Secure data workflows</text>
+  </g>
+  <g class="card d4" transform="translate(898 124)">
+    <rect width="268" height="202" rx="18" fill="#081521" stroke="#194156"/>
+    <circle cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M25 28h14v13H25zM28 25v3M36 25v3M28 44v-3M36 44v-3" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <text x="60" y="40" class="group">Tools &amp; Platform</text>
+    <text x="24" y="85" class="skill">Git • GitHub • npm</text>
+    <text x="24" y="119" class="skill">Vercel • VS Code</text>
+    <text x="24" y="153" class="skill">Deployment • Environment vars</text>
+    <text x="24" y="187" class="skill">Clean and reusable workflows</text>
+  </g>
+</svg>
