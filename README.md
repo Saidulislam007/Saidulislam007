@@ -1,12 +1,4 @@
-
 <div align="center">
-  <a href="https://github.com/Saidulislam007">
-    <img src="https://github.com/Saidulislam007.png" width="148" alt="Saidul Islam profile photo" />
-  </a>
-
-  <br />
-  <br />
-
   <img src="./assets/hero.svg" width="100%" alt="Saidul Islam — MERN Stack and Full-Stack Developer" />
 </div>
 
@@ -62,20 +54,3 @@
   Custom CSS animations are embedded inside the SVG files in /assets.
   Replace or add your portfolio, LinkedIn and email links in the connect section when ready.
 -->
-=======
-<p align="center">
-  <img
-    src="./assets/profile.svg"
-    width="100%"
-    alt="Saidul Islam — Full-Stack Developer"
-  />
-</p>
-
-<p align="center">
-  <a href="mailto:said38383742@gmail.com">Email</a> •
-  <a href="tel:+8801911625953">Phone</a> •
-  <a href="https://wa.me/8801911625953">WhatsApp</a> •
-  <a href="https://www.linkedin.com/in/saidulislam007">LinkedIn</a> •
-  <a href="https://saidul-portfolio-pi.vercel.app">Portfolio</a>
-</p>
->>>>>>> 754af6e3179eb5f156a613ddb4747ae07a0a08a6

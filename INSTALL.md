@@ -20,10 +20,5 @@ while remaining compatible with GitHub.
 
 ## Profile image
 
-The README loads the current profile image from:
-
-```text
-https://github.com/Saidulislam007.png
-```
-
-Changing the GitHub account avatar automatically changes the README photo.
+The profile photo is embedded directly inside `assets/hero.svg`, so it appears
+inside the banner and remains reliable when GitHub proxies the SVG image.
