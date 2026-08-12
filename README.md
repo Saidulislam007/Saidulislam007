@@ -4,7 +4,11 @@
   <img src="./assets/saidul-profile.webp" width="170" alt="Saidul Islam" />
 </p>
 
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I’m Saidul Islam</h1>
+=======
+
+>>>>>>> 63e3692a213a75d2023679ca919f90b8815e5531
 
 <h3 align="center">MERN Stack / Full-Stack Developer</h3>
 
