@@ -1,123 +1,130 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/saidul-profile-banner.svg" width="100%" alt="Saidul Islam — Full-Stack Developer" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07110F,55:0B2A22,100:66F6C5&text=Saidul%20Islam&fontColor=F4FBF8&fontSize=48&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Building%20Fast%2C%20Scalable%20%26%20Impactful%20Web%20Applications&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Saidul Islam — MERN Stack Developer" />
+<h1 align="center">Hi 👋, I'm Saidul Islam</h1>
+<h3 align="center">Full-Stack Developer · MERN & Next.js</h3>
 
+<p align="center">
+  I build modern full-stack products with clean interfaces, secure APIs, scalable architecture, and production-focused engineering.
+</p>
 
+<p align="center">
+  <a href="https://saidul-portfolio-pi.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/saidulislam007"><strong>LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:said38383742@gmail.com"><strong>Email</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://wa.me/8801911625953"><strong>WhatsApp</strong></a>
+</p>
 
+👨‍💻 About Me
 
+I’m a MERN Stack Developer from Khulna, Bangladesh, focused on building responsive and user-friendly applications that solve practical problems. I enjoy connecting thoughtful frontend experiences with secure backend systems, authentication, REST APIs, data modeling, and reliable deployment.
 
-</div>
+🔭 Building production-minded applications with Next.js and the MERN stack
 
-About me
+🧠 Interested in backend architecture, authentication, web security, and system design
 
-I’m Saidul Islam, a MERN Stack Developer from Khulna, Bangladesh. I build modern full-stack applications that combine responsive interfaces, secure backend systems, practical business workflows, and reliable production delivery.
+🎓 B.Sc. (Honours) in Mathematics — National University, Bangladesh
 
-My academic background in pure mathematics strengthened my analytical thinking and trained me to transform complex problems into structured logic, algorithmic models, and maintainable system architectures.
+💼 Available for full-time opportunities, internships, and collaborations
 
-Building with React, Next.js, Node.js, Express.js, and MongoDB
+🛠 Technologies I Work With
 
-Focused on scalable architecture, REST APIs, authentication, and responsive UI
+<p align="center">
+  <img src="./assets/saidul-tech-stack.svg" width="100%" alt="Saidul Islam's technical toolkit" />
+</p>
 
-Interested in backend architecture, web security, performance, and polished product experiences
+🚀 Featured Projects
 
-Open to full-time opportunities, internships, and meaningful collaborations
-
-Technical expertise
-
-<div align="center">
-
-Frontend
-
-
-
-Backend, data & delivery
-
-
-
-</div>
-
-Selected work
-
-Project
-
-Product focus
-
-Engineering highlights
-
-Source
+<table>
+<tr>
+<td width="50%" valign="top">
 
 RouteSync
 
-Smart fleet coordination for shared employee trips
+Smart fleet coordination
 
-Route matching, four-role workflow, vehicle and driver operations, responsive dashboards
+A company vehicle-sharing platform that intelligently groups nearby employee trips and gives transport teams a real-time operational workflow.
 
-Repository
+<code>Next.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Better Auth</code>
+
+Repository →
+
+</td>
+<td width="50%" valign="top">
 
 FurniLux
 
-Premium full-stack furniture commerce
+Full-stack furniture commerce
 
-Role-based access, product governance, cart, ordering, delivery workflows
+A premium marketplace with secure authentication, role-aware dashboards, product governance, ordering, and delivery workflows.
 
-Client · Server
+<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code>
+
+Client → · Server →
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 BiblioDrop
 
-Book marketplace and digital library ecosystem
+Book marketplace & library system
 
-Wishlist, delivery, reviews, role-aware dashboards, secure REST API architecture
+A digital library ecosystem for discovery, wishlists, delivery, reviews, and role-aware content administration.
 
-Client · Server · Live
+<code>Next.js</code> <code>Express.js</code> <code>JWT</code> <code>MongoDB</code>
+
+Client → · Server → · Live →
+
+</td>
+<td width="50%" valign="top">
 
 KeenKeeper
 
-Human-centered friendship analytics
+Friendship analytics
 
-Interaction tracking, timelines, reusable React state, accessible visual insights
+A human-centered application for understanding friendships through interaction tracking, timelines, and accessible visual insights.
 
-Repository
+<code>React</code> <code>Tailwind CSS</code> <code>Context API</code> <code>Recharts</code>
 
-<div align="center">
+Repository →
 
+</td>
+</tr>
+</table>
 
+<p align="center">
+  <a href="https://saidul-portfolio-pi.vercel.app/#work"><strong>Explore detailed case studies on my portfolio →</strong></a>
+</p>
 
-</div>
+🧩 What I Bring
 
-What I bring
+<table>
+<tr>
+<td align="center" width="25%"><strong>Clean Code</strong><br/><sub>Readable & scalable</sub></td>
+<td align="center" width="25%"><strong>Performance</strong><br/><sub>Fast product experiences</sub></td>
+<td align="center" width="25%"><strong>Responsive UI</strong><br/><sub>320px to widescreen</sub></td>
+<td align="center" width="25%"><strong>Problem Solving</strong><br/><sub>Logic-driven decisions</sub></td>
+</tr>
+</table>
 
-Frontend systems     Responsive, accessible and interaction-focused interfaces
-Backend architecture Secure APIs, authentication and maintainable business logic
-Data & delivery      Practical data modeling and production-minded deployment
-Problem solving      Mathematical reasoning applied to real product challenges
+📐 Analytical Foundation
 
-GitHub activity
+My academic journey in pure mathematics strengthened my analytical thinking. It trained me to decompose complex real-world problems into structured logic, algorithmic models, and maintainable system architectures—the same mindset I apply to software engineering.
 
-<div align="center">
+<h2 align="center">Let’s Build Something Meaningful</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saidulislam007&show_icons=true&hide_border=true&bg_color=07110F&title_color=66F6C5&icon_color=6DE7F7&text_color=C5D0CB&rank_icon=github" alt="Saidul Islam's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidulislam007&layout=compact&hide_border=true&bg_color=07110F&title_color=66F6C5&text_color=C5D0CB&langs_count=8" alt="Most used languages" />
+<p align="center">
+  Have a role, a product, or a hard problem? I’m ready to contribute, take ownership, and grow with an experienced engineering team.
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Saidulislam007&hide_border=true&background=07110F&ring=66F6C5&fire=6DE7F7&currStreakLabel=66F6C5&sideLabels=C5D0CB&dates=71817A&currStreakNum=F4FBF8&sideNums=F4FBF8" alt="GitHub contribution streak" />
-
-</div>
-
-Education
-
-B.Sc. (Honours) in MathematicsNational University, Bangladesh
-
-Mathematics taught me to decompose complexity, recognize patterns, and design structured solutions—the same mindset I bring to software engineering.
-
-Let’s build something meaningful
-
-I’m available for full-time developer roles and collaborations where I can contribute to real products, solve hard problems, and continue growing with an experienced engineering team.
-
-<div align="center">
-
-
-
-Email: said38383742@gmail.comLinkedIn: saidulislam007Portfolio: saidul-portfolio-pi.vercel.app
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07110F,100:66F6C5" width="100%" alt="" />
-
-</div>
+<p align="center">
+  <a href="mailto:said38383742@gmail.com"><strong>Start a conversation →</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://saidul-portfolio-pi.vercel.app"><strong>View portfolio →</strong></a>
+</p>
