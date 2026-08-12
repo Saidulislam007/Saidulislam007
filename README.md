@@ -1,75 +1,123 @@
-# 👋 Hi, I'm Saidul Islam
-<p align="center">
-  <!-- Banner Image: Modern tech gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Web%20Engineer&fontSize=40&animation=fadeIn" width="100%" alt="Banner" />
-</p>
+<div align="center">
 
-## 🚀 Full-Stack Engineer | MERN & Next.js
-Full-Stack Engineer building high-performance web apps with the MERN stack & Next.js. Focused on fluid frontends, secure auth, and optimized backends. Let’s ship.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07110F,55:0B2A22,100:66F6C5&text=Saidul%20Islam&fontColor=F4FBF8&fontSize=48&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Building%20Fast%2C%20Scalable%20%26%20Impactful%20Web%20Applications&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Saidul Islam — MERN Stack Developer" />
 
----
 
-### 🙋‍♂️ About Me
-- 🎓 Passionate web developer dedicated to building responsive user experiences and clean code architectures.
-- ⚡ Focused on full-stack development using modern JavaScript ecosystems to solve real-world problems.
-- 🛡️ Strong interest in secure authentication protocols (JWT) and writing clean, maintainable backend logic.
 
-### 🔭 Current Activities
-- 🚀 I am exploring **Next.js** architectures, focusing on Server Actions and Incremental Static Regeneration.
-- 🏗️ Working on custom frontend UI interfaces, interactive navigation workflows, and a tourism platform project.
-- 🛠️ Currently expanding my knowledge of secure state management and scalable component structures.
 
----
 
-### 🛠️ Tech Stack & Skills
+</div>
 
-#### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+About me
 
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=transparent" alt="JWT" />
-</p>
+I’m Saidul Islam, a MERN Stack Developer from Khulna, Bangladesh. I build modern full-stack applications that combine responsive interfaces, secure backend systems, practical business workflows, and reliable production delivery.
 
-#### 🔧 Tools & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+My academic background in pure mathematics strengthened my analytical thinking and trained me to transform complex problems into structured logic, algorithmic models, and maintainable system architectures.
 
----
+Building with React, Next.js, Node.js, Express.js, and MongoDB
 
-### 📊 GitHub Stats
+Focused on scalable architecture, REST APIs, authentication, and responsive UI
 
-<p align="center">
-  <!-- Replace 'YOUR-GITHUB-USERNAME' with your actual username in the URLs below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Saidulislam007&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislam007&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+Interested in backend architecture, web security, performance, and polished product experiences
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" width="97%" />
-</p>
+Open to full-time opportunities, internships, and meaningful collaborations
 
----
+Technical expertise
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+Frontend
+
+
+
+Backend, data & delivery
+
+
+
+</div>
+
+Selected work
+
+Project
+
+Product focus
+
+Engineering highlights
+
+Source
+
+RouteSync
+
+Smart fleet coordination for shared employee trips
+
+Route matching, four-role workflow, vehicle and driver operations, responsive dashboards
+
+Repository
+
+FurniLux
+
+Premium full-stack furniture commerce
+
+Role-based access, product governance, cart, ordering, delivery workflows
+
+Client · Server
+
+BiblioDrop
+
+Book marketplace and digital library ecosystem
+
+Wishlist, delivery, reviews, role-aware dashboards, secure REST API architecture
+
+Client · Server · Live
+
+KeenKeeper
+
+Human-centered friendship analytics
+
+Interaction tracking, timelines, reusable React state, accessible visual insights
+
+Repository
+
+<div align="center">
+
+
+
+</div>
+
+What I bring
+
+Frontend systems     Responsive, accessible and interaction-focused interfaces
+Backend architecture Secure APIs, authentication and maintainable business logic
+Data & delivery      Practical data modeling and production-minded deployment
+Problem solving      Mathematical reasoning applied to real product challenges
+
+GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saidulislam007&show_icons=true&hide_border=true&bg_color=07110F&title_color=66F6C5&icon_color=6DE7F7&text_color=C5D0CB&rank_icon=github" alt="Saidul Islam's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidulislam007&layout=compact&hide_border=true&bg_color=07110F&title_color=66F6C5&text_color=C5D0CB&langs_count=8" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Saidulislam007&hide_border=true&background=07110F&ring=66F6C5&fire=6DE7F7&currStreakLabel=66F6C5&sideLabels=C5D0CB&dates=71817A&currStreakNum=F4FBF8&sideNums=F4FBF8" alt="GitHub contribution streak" />
+
+</div>
+
+Education
+
+B.Sc. (Honours) in MathematicsNational University, Bangladesh
+
+Mathematics taught me to decompose complexity, recognize patterns, and design structured solutions—the same mindset I bring to software engineering.
+
+Let’s build something meaningful
+
+I’m available for full-time developer roles and collaborations where I can contribute to real products, solve hard problems, and continue growing with an experienced engineering team.
+
+<div align="center">
+
+
+
+Email: said38383742@gmail.comLinkedIn: saidulislam007Portfolio: saidul-portfolio-pi.vercel.app
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07110F,100:66F6C5" width="100%" alt="" />
+
+</div>
