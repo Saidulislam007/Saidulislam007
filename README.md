@@ -1,76 +1,67 @@
 <!--
-<<<<<<< HEAD
   Saidul Islam — Split Identity GitHub Profile
-  Static UI: no animation
-  Upload this README.md and the assets folder to:
-  https://github.com/Saidulislam007/Saidulislam007
+  Real GitHub-supported Markdown + HTML
+  No full-page UI image, no animation, no custom CSS
 -->
 
-<p align="center">
-  <img
-    src="./assets/split-identity-profile.png"
-    width="100%"
-    alt="Saidul Islam — MERN Stack and Full-Stack Developer from Khulna, Bangladesh"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:said38383742@gmail.com"><b>Email Me</b></a>
-  &nbsp; • &nbsp;
-  <a href="tel:+8801911625953"><b>Phone</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://wa.me/8801911625953"><b>WhatsApp</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/saidulislam007"><b>LinkedIn</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://docs.google.com/document/d/1bflPiymWGmhlgkTOAmgIMrsV6NKkZ6bbWRN3tFtVYRA/export?format=pdf"><b>View Resume</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://saidul-portfolio-pi.vercel.app"><b>Portfolio</b></a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Saidulislam007"><b>GitHub Profile</b></a>
-=======
-  Saidul Islam — Static Split Identity GitHub Profile README
-  Theme: near-black emerald + mint
-  No animation, no inflated GitHub metrics, recruiter-focused content.
--->
+### 05 · <code>SPLIT</code> IDENTITY
+
+</div>
 
 <table width="100%">
   <tr>
-    <td width="32%" align="center" valign="middle">
+    <td width="34%" align="center" valign="top">
+      <br />
       <img
-        src="https://avatars.githubusercontent.com/u/185579169?v=4"
-        width="180"
+        src="./assets/saidul-profile.webp"
+        width="210"
         alt="Saidul Islam"
       />
-      <br/><br/>
-      <strong>Saidul Islam</strong>
-      <br/>
-      <sub>MERN Stack / Full-Stack Developer</sub>
-      <br/><br/>
-      📍 Khulna, Bangladesh
-      <br/><br/>
-      <a href="https://github.com/Saidulislam007">GitHub</a>
-      &nbsp;·&nbsp;
-      <a href="https://www.linkedin.com/in/saidulislam007">LinkedIn</a>
-      <br/>
-      <a href="mailto:said38383742@gmail.com">Email</a>
-      &nbsp;·&nbsp;
-      <a href="https://wa.me/8801911625953">WhatsApp</a>
+      <h2>Saidul Islam</h2>
+      <p><strong>MERN Stack · Full-Stack Developer</strong></p>
+      <p>📍 Khulna, Bangladesh</p>
+      <hr />
+      <p align="left">
+        🔗 <a href="https://www.linkedin.com/in/saidulislam007">LinkedIn</a><br />
+        ✉️ <a href="mailto:said38383742@gmail.com">said38383742@gmail.com</a><br />
+        📞 <a href="tel:+8801911625953">Phone — 01911625953</a><br />
+        💬 <a href="https://wa.me/8801911625953">WhatsApp — 01911625953</a>
+      </p>
     </td>
-    <td width="68%" valign="middle">
-      <h1>Hi 👋, I’m Saidul Islam</h1>
+    <td width="66%" valign="top">
+      <br />
+      <h1>Hi 👋, I’m <code>Saidul Islam</code></h1>
       <h3>MERN Stack / Full-Stack Developer</h3>
       <p>
-        I build fast, scalable, and user-friendly web applications with clean interfaces,
-        secure APIs, maintainable architecture, and production-focused engineering.
+        I build fast, scalable and user-friendly web applications with clean
+        interfaces, secure APIs, maintainable architecture and
+        production-focused engineering.
       </p>
-      <p>
-        My work connects thoughtful frontend experiences with authentication, REST APIs,
-        data modeling, role-based workflows, and reliable deployment.
-      </p>
-      <p>
-        🟢 <strong>Available for full-time opportunities, internships, and collaborations.</strong>
-      </p>
+      <p>🟢 <strong>Available for full-time opportunities</strong></p>
+      <br />
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <strong>MERN</strong><br />
+            <sub>Developer</sub>
+          </td>
+          <td align="center">
+            <strong>Full-Stack</strong><br />
+            <sub>Frontend + Backend</sub>
+          </td>
+          <td align="center">
+            <strong>Responsive</strong><br />
+            <sub>Mobile to Desktop</sub>
+          </td>
+          <td align="center">
+            <strong>Open</strong><br />
+            <sub>To Work</sub>
+          </td>
+        </tr>
+      </table>
+      <br />
       <p>
         <a href="https://saidul-portfolio-pi.vercel.app"><strong>View Portfolio</strong></a>
         &nbsp;·&nbsp;
@@ -82,181 +73,131 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/profile-highlights.svg" width="100%" alt="Saidul Islam profile highlights" />
+## 👤 About Me
+
+I’m a MERN Stack developer from **Khulna, Bangladesh** who enjoys turning practical ideas into dependable web applications. I work across the full development cycle—from responsive interfaces and reusable components to REST API design, authentication, database modeling and production deployment.
+
+- 🔭 Building production-minded applications with **Next.js and MERN**
+- 🔐 Interested in **backend architecture, JWT and web security**
+- 🧩 Comfortable with **role-based dashboards and end-to-end workflows**
+- 📱 Focused on **responsive, accessible and maintainable interfaces**
+- 💼 Looking for a team where I can contribute, take ownership and grow
+
+---
+
+## </> Technical Expertise
+
+### Frontend
+
+<p>
+  <code>React</code>&nbsp;
+  <code>Next.js</code>&nbsp;
+  <code>JavaScript ES6+</code>&nbsp;
+  <code>HTML5</code>&nbsp;
+  <code>CSS3</code>&nbsp;
+  <code>Tailwind CSS</code>&nbsp;
+  <code>Framer Motion</code>
 </p>
 
-About Me
+### Backend, Security & Data
 
-I’m a developer from Khulna, Bangladesh, focused on turning practical problems into dependable digital products. I enjoy working across the full development cycle—from responsive UI and reusable components to API design, authentication, database modeling, and production deployment.
+<p>
+  <code>Node.js</code>&nbsp;
+  <code>Express.js</code>&nbsp;
+  <code>REST API</code>&nbsp;
+  <code>JWT / Web Security</code>&nbsp;
+  <code>MongoDB</code>&nbsp;
+  <code>Firebase</code>
+</p>
 
-🔭 Building production-minded applications with Next.js and the MERN stack
+### Tools & Deployment
 
-🔐 Interested in backend architecture, authentication, JWT, and web security
+<p>
+  <code>Git</code>&nbsp;
+  <code>GitHub</code>&nbsp;
+  <code>Vercel</code>&nbsp;
+  <code>VS Code</code>&nbsp;
+  <code>Lucide React</code>
+</p>
 
-🧩 Comfortable designing role-based dashboards and end-to-end workflows
+---
 
-📱 Every interface is built to remain usable from small mobile screens to widescreen displays
-
-💼 Looking for a team where I can contribute, take ownership, and grow as an engineer
-
-Technical Expertise
-
-Frontend
-
-
-
-Backend, Security & Data
-
-
-
-Tools & Deployment
-
-
-
-Featured Projects
+## 🎓 Education & Learning Journey
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Saidulislam007/routesync">
-        <img src="https://raw.githubusercontent.com/Saidulislam007/saidul-portfolio/main/public/projects/routesync.svg" width="100%" alt="RouteSync dashboard preview" />
-      </a>
-      <h3>RouteSync</h3>
-      <p><strong>Smart company vehicle sharing</strong></p>
-      <p>A route-coordination platform that matches nearby employee trips and supports employee, manager, driver, and admin workflows.</p>
-      <p><code>Next.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Better Auth</code></p>
+    <td width="55%" valign="top">
+      <h3>Academic Background</h3>
+      <ul>
+        <li><strong>B.Sc. (Honours) in Mathematics</strong></li>
+        <li><strong>Higher Secondary Certificate (HSC)</strong></li>
+        <li><strong>Secondary School Certificate (SSC)</strong></li>
+      </ul>
       <p>
-        <a href="https://github.com/Saidulislam007/routesync"><strong>Repository →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://saidul-portfolio-pi.vercel.app/#work"><strong>Case Study →</strong></a>
+        My mathematics background helps me break complex problems into
+        structured logic, clear models and maintainable solutions.
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://furniture-client-chi.vercel.app">
-        <img src="https://raw.githubusercontent.com/Saidulislam007/saidul-portfolio/main/public/projects/atelier.svg" width="100%" alt="Atelier furniture commerce preview" />
-      </a>
-      <h3>FurniLux / Atelier</h3>
-      <p><strong>Full-stack furniture commerce</strong></p>
-      <p>A premium marketplace with secure authentication, role-based dashboards, product governance, ordering, and delivery workflows.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code></p>
-      <p>
-        <a href="https://furniture-client-chi.vercel.app"><strong>Live Project →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Saidulislam007/furniture-client"><strong>Repository →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://bibliodrop-client-eight.vercel.app">
-        <img src="https://raw.githubusercontent.com/Saidulislam007/saidul-portfolio/main/public/projects/bibliodrop.svg" width="100%" alt="BiblioDrop digital library preview" />
-      </a>
-      <h3>BiblioDrop</h3>
-      <p><strong>Book marketplace & library system</strong></p>
-      <p>A digital library ecosystem for discovery, wishlists, delivery, reviews, and secure role-aware content administration.</p>
-      <p><code>Next.js</code> <code>JavaScript</code> <code>Express.js</code> <code>JWT</code> <code>MongoDB</code></p>
-      <p>
-        <a href="https://bibliodrop-client-eight.vercel.app"><strong>Live Project →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Saidulislam007/bibliodrop-client"><strong>Repository →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://doctor-client-beta.vercel.app">
-        <img src="https://raw.githubusercontent.com/Saidulislam007/saidul-portfolio/main/public/projects/medreserve.svg" width="100%" alt="MedReserve doctor appointment preview" />
-      </a>
-      <h3>MedReserve</h3>
-      <p><strong>Doctor appointment platform</strong></p>
-      <p>A role-aware healthcare application for doctor discovery, appointment booking, schedules, patient workflows, and administration.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></p>
-      <p>
-        <a href="https://doctor-client-beta.vercel.app"><strong>Live Project →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Saidulislam007/doctor-client"><strong>Repository →</strong></a>
-      </p>
+    <td width="45%" valign="top">
+      <h3>Currently Learning</h3>
+      <ul>
+        <li>Advanced Next.js & App Router</li>
+        <li>System Design & Architecture</li>
+        <li>Docker & Kubernetes</li>
+        <li>CI/CD & DevOps Practices</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://saidul-portfolio-pi.vercel.app/#work"><strong>Explore detailed project case studies →</strong></a>
-</p>
+---
 
-Personal Portfolio
-
-My portfolio is a recruiter-focused product experience built with Next.js, JavaScript, Tailwind CSS, Framer Motion, and Lucide React.
-
-Area
-
-Implementation
-
-Structure
-
-Loader, fixed Header, Hero, About, Education, Expertise, Projects, Contact
-
-Projects
-
-Pagination, complete preview modal, live-project and repository links
-
-Experience
-
-Dark/light theme, responsive UI, accessible interactions
-
-Conversion
-
-Downloadable resume, social links, email, WhatsApp, direct recruiter CTA
-
-Live: saidul-portfolio-pi.vercel.appSource: Saidulislam007/saidul-portfolio
-
-Education & Analytical Foundation
-
-Qualification
-
-Focus
-
-B.Sc. (Honours) in Mathematics
-
-Analytical thinking, structured logic, algorithms, and complex problem decomposition
-
-Higher Secondary Certificate (HSC)
-
-Academic foundation for higher education
-
-Secondary School Certificate (SSC)
-
-Core academic foundation
-
-My mathematics background trained me to break complex real-world problems into structured logic and maintainable systems—the same approach I bring to software engineering.
-
-What I Bring
+## 📊 Developer Snapshot
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><strong>Clean Code</strong><br/><sub>Readable & maintainable</sub></td>
-    <td width="25%" align="center"><strong>Responsive UI</strong><br/><sub>Mobile to widescreen</sub></td>
-    <td width="25%" align="center"><strong>Secure APIs</strong><br/><sub>Auth & validation focused</sub></td>
-    <td width="25%" align="center"><strong>Ownership</strong><br/><sub>From idea to deployment</sub></td>
+    <td width="50%" valign="top">
+      <h3>What I Build</h3>
+      <ul>
+        <li>Responsive product interfaces</li>
+        <li>Secure REST APIs</li>
+        <li>Authentication and authorization</li>
+        <li>Role-based dashboards</li>
+        <li>Production deployments</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I Value</h3>
+      <ul>
+        <li>Clean, maintainable code</li>
+        <li>Performance and accessibility</li>
+        <li>User-focused problem solving</li>
+        <li>Continuous learning</li>
+        <li>Teamwork and communication</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-Let’s Connect
+---
 
-<p align="center">
-  Have a role, a product, or a challenging problem? I’m ready to contribute, take ownership, and grow with an experienced engineering team.
+## ✉️ Let’s Connect
+
+<p>
+  I’m open to full-time opportunities, internships and meaningful
+  collaborations.
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:said38383742@gmail.com"><strong>Email Me</strong></a>
+  &nbsp;·&nbsp;
+  <a href="tel:+8801911625953"><strong>Call Me</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://wa.me/8801911625953"><strong>WhatsApp</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/saidulislam007"><strong>LinkedIn</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://docs.google.com/document/d/1bflPiymWGmhlgkTOAmgIMrsV6NKkZ6bbWRN3tFtVYRA/export?format=pdf"><strong>Resume</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://saidul-portfolio-pi.vercel.app"><strong>Portfolio</strong></a>
-</p>
-
-<p align="center">
-  <sub>Built with clarity, evidence, and recruiter-friendly scanning in mind.</sub>
->>>>>>> 01e5675af790eda69bb0fe0e008168ffd81db05c
+  &nbsp;·&nbsp;
+  <a href="https://docs.google.com/document/d/1bflPiymWGmhlgkTOAmgIMrsV6NKkZ6bbWRN3tFtVYRA/export?format=pdf"><strong>Resume</strong></a>
 </p>

@@ -12,7 +12,9 @@ The final repository structure must remain:
 Saidulislam007/
 ├── README.md
 └── assets/
-    └── split-identity-profile.png
+    └── saidul-profile.webp
 ```
 
-The profile is intentionally static and contains no animation.
+The profile is written with real GitHub-supported Markdown and HTML. Only the
+personal portrait is an image. The profile is intentionally static and
+contains no animation.
