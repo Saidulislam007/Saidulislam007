@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Saidul Islam — Full-Stack Developer</title>
+  <desc id="desc">Professional GitHub profile banner with portrait, contact details, skills and availability.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050b12"/>
+      <stop offset="0.52" stop-color="#071421"/>
+      <stop offset="1" stop-color="#041019"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0a1b29"/>
+      <stop offset="1" stop-color="#07131e"/>
+    </linearGradient>
+    <radialGradient id="photoGlow">
+      <stop stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="0.62" stop-color="#22d3ee" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rightGlow">
+      <stop stop-color="#0e7490" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#67e8f9" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="photoClip">
+      <circle cx="188" cy="155" r="112"/>
+    </clipPath>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Arial,sans-serif}
+    .hello{font:700 48px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
+    .name{font:800 64px 'Segoe UI',Arial,sans-serif;letter-spacing:-1px;fill:#22d3ee}
+    .role{font:650 25px 'Segoe UI',Arial,sans-serif;fill:#e2e8f0}
+    .meta{font:550 18px 'Segoe UI',Arial,sans-serif;fill:#a9bbca}
+    .available{font:650 18px 'Segoe UI',Arial,sans-serif;fill:#67e8f9}
+    .intro{font:400 19px 'Segoe UI',Arial,sans-serif;fill:#b3c2d0}
+    .contact{font:520 16px 'Segoe UI',Arial,sans-serif;fill:#c7d3df}
+    .cardValue{font:750 20px 'Segoe UI',Arial,sans-serif;fill:#f1f5f9}
+    .cardLabel{font:550 12px 'Segoe UI',Arial,sans-serif;letter-spacing:.8px;fill:#7f95a8}
+    .tiny{font:650 12px 'Segoe UI',Arial,sans-serif;letter-spacing:1.5px;fill:#67e8f9}
+  </style>
+
+  <rect width="1200" height="560" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="558" rx="23" fill="none" stroke="#1a3d4e"/>
+  <rect width="1200" height="560" rx="24" fill="url(#grid)"/>
+  <circle cx="184" cy="157" r="245" fill="url(#photoGlow)"/>
+  <circle cx="965" cy="235" r="390" fill="url(#rightGlow)"/>
+
+  <!-- Left profile panel -->
+  <circle cx="188" cy="155" r="130" fill="#071723" stroke="#11384a"/>
+  <circle cx="188" cy="155" r="120" fill="none" stroke="#22d3ee" stroke-width="4" filter="url(#glow)"/>
+  <image href="profile.png" x="76" y="43" width="224" height="224" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)"/>
+  <circle cx="188" cy="155" r="112" fill="none" stroke="#a5f3fc" stroke-opacity=".6" stroke-width="2"/>
+  <rect x="134" y="280" width="108" height="30" rx="15" fill="#08222e" stroke="#17566c"/>
+  <circle cx="154" cy="295" r="5" fill="#22c55e"/>
+  <text x="168" y="300" class="tiny">OPEN TO WORK</text>
+
+  <g transform="translate(37 343)">
+    <g>
+      <rect width="30" height="30" rx="9" fill="#0a2734" stroke="#15566c"/>
+      <text x="8" y="21" style="font:700 14px 'Segoe UI',Arial,sans-serif;fill:#67e8f9">in</text>
+      <text x="45" y="21" class="contact">linkedin.com/in/saidulislam007</text>
+    </g>
+    <g transform="translate(0 46)">
+      <rect width="30" height="30" rx="9" fill="#0a2734" stroke="#15566c"/>
+      <path d="M7 9h16v12H7zM7 10l8 7 8-7" fill="none" stroke="#67e8f9" stroke-width="1.7" stroke-linejoin="round"/>
+      <text x="45" y="21" class="contact">said38383742@gmail.com</text>
+    </g>
+    <g transform="translate(0 92)">
+      <rect width="30" height="30" rx="9" fill="#0a2734" stroke="#15566c"/>
+      <path d="M15 6a9 9 0 0 0-7.8 13.5L6 24l4.7-1.1A9 9 0 1 0 15 6Z" fill="none" stroke="#67e8f9" stroke-width="1.6"/>
+      <path d="M11 11c1 5 3 7 8 8" fill="none" stroke="#67e8f9" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="45" y="21" class="contact">+880 1911-625953</text>
+    </g>
+    <g transform="translate(0 138)">
+      <rect width="30" height="30" rx="9" fill="#0a2734" stroke="#15566c"/>
+      <circle cx="15" cy="15" r="8" fill="none" stroke="#67e8f9" stroke-width="1.6"/>
+      <path d="M7 15h16M15 7c4 4 4 12 0 16M15 7c-4 4-4 12 0 16" fill="none" stroke="#67e8f9" stroke-width="1.4"/>
+      <text x="45" y="21" class="contact">saidul-portfolio-pi.vercel.app</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="386" y1="34" x2="386" y2="526" stroke="#173746" stroke-width="2"/>
+  <line x1="386" y1="146" x2="386" y2="284" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="386" cy="215" r="6" fill="#67e8f9" filter="url(#glow)"/>
+
+  <!-- Right content panel -->
+  <text x="448" y="92" class="hello">Hi, I&apos;m</text>
+  <g transform="translate(648 54)">
+    <path d="M17 40c-9-7-11-16-6-21 3-3 7 0 9 5-2-12 0-20 5-20 4 0 5 8 5 17 0-12 2-19 6-18 4 1 4 9 3 19 2-9 5-14 8-12 4 2 1 11-1 17 5-6 10-7 12-3 3 6-6 18-15 23-10 6-19 2-26-7Z" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
+    <path d="M20 51c8 3 17 2 24-4" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="448" y="162" class="name">Saidul Islam</text>
+  <text x="448" y="207" class="role">Full-Stack Developer • MERN &amp; Next.js</text>
+
+  <g transform="translate(448 235)">
+    <path d="M12 2a10 10 0 0 0-10 10c0 7.5 10 16 10 16s10-8.5 10-16A10 10 0 0 0 12 2Zm0 14a4 4 0 1 1 0-8 4 4 0 0 1 0 8Z" fill="#94a3b8"/>
+    <text x="35" y="19" class="meta">Khulna, Bangladesh</text>
+  </g>
+  <g transform="translate(448 274)">
+    <circle cx="10" cy="10" r="8" fill="#22c55e"/>
+    <text x="35" y="16" class="available">Available for full-time opportunities</text>
+  </g>
+
+  <text x="448" y="338" class="intro">
+    <tspan x="448">I build fast, scalable and user-friendly web applications with modern</tspan>
+    <tspan x="448" dy="28">technologies—focused on clean code, strong UX and secure APIs.</tspan>
+  </text>
+
+  <!-- Honest highlight cards; no fabricated GitHub metrics -->
+  <g transform="translate(448 415)">
+    <g>
+      <rect width="164" height="92" rx="15" fill="url(#card)" stroke="#1b485a"/>
+      <path d="m18 45 12-12m-12 12 12 12m22-24 12 12-12 12M44 27 36 63" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="77" y="42" class="cardValue">MERN</text>
+      <text x="77" y="63" class="cardLabel">CORE STACK</text>
+    </g>
+    <g transform="translate(178)">
+      <rect width="164" height="92" rx="15" fill="url(#card)" stroke="#1b485a"/>
+      <circle cx="38" cy="45" r="19" fill="none" stroke="#22d3ee" stroke-width="2.2"/>
+      <text x="26" y="52" style="font:750 17px 'Segoe UI',Arial,sans-serif;fill:#67e8f9">N</text>
+      <text x="70" y="42" class="cardValue">Next.js</text>
+      <text x="70" y="63" class="cardLabel">FRONTEND</text>
+    </g>
+    <g transform="translate(356)">
+      <rect width="164" height="92" rx="15" fill="url(#card)" stroke="#1b485a"/>
+      <circle cx="38" cy="45" r="19" fill="#092631" stroke="#22d3ee" stroke-width="2"/>
+      <path d="M27 45h22M42 36l9 9-9 9" fill="none" stroke="#67e8f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="69" y="42" class="cardValue">REST API</text>
+      <text x="69" y="63" class="cardLabel">BACKEND</text>
+    </g>
+    <g transform="translate(534)">
+      <rect width="164" height="92" rx="15" fill="url(#card)" stroke="#1b485a"/>
+      <circle cx="38" cy="45" r="19" fill="#092631" stroke="#22d3ee" stroke-width="2"/>
+      <path d="m28 45 7 7 14-16" fill="none" stroke="#67e8f9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="70" y="42" class="cardValue">OPEN</text>
+      <text x="70" y="63" class="cardLabel">TO WORK</text>
+    </g>
+  </g>
+</svg>

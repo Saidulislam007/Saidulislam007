@@ -20,5 +20,5 @@ while remaining compatible with GitHub.
 
 ## Profile image
 
-The profile photo is embedded directly inside `assets/hero.svg`, so it appears
-inside the banner and remains reliable when GitHub proxies the SVG image.
+The profile photo is embedded into `assets/hero-banner.png`, so it appears
+inside the banner and renders consistently on GitHub.

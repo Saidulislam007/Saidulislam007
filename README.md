@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Saidul Islam — MERN Stack and Full-Stack Developer" />
+  <img src="./assets/hero-banner.png" width="100%" alt="Saidul Islam — MERN Stack and Full-Stack Developer" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Saidulislam007?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Repositories-0b1829?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore Saidul's repositories" />
+  <a href="mailto:said38383742@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-0b1829?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email Saidul Islam" />
   </a>
-  <a href="https://github.com/Saidulislam007">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-0b1829?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Follow Saidul on GitHub" />
+  <a href="https://www.linkedin.com/in/saidulislam007">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1829?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="Saidul Islam on LinkedIn" />
+  </a>
+  <a href="https://wa.me/8801911625953">
+    <img src="https://img.shields.io/badge/WhatsApp-0b1829?style=for-the-badge&logo=whatsapp&logoColor=22d3ee" alt="Message Saidul Islam on WhatsApp" />
+  </a>
+  <a href="https://saidul-portfolio-pi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0b1829?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="View Saidul Islam's portfolio" />
   </a>
 </div>
 
