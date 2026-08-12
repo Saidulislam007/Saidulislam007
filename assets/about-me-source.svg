@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">About Me — Saidul Islam</title>
+  <desc id="desc">A concise professional introduction for Full-Stack Developer Saidul Islam.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050b12"/>
+      <stop offset="0.6" stop-color="#07121c"/>
+      <stop offset="1" stop-color="#061018"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#22d3ee" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .heading{font:700 25px 'Segoe UI',Arial,sans-serif;fill:#67e8f9}
+    .body{font:400 17px 'Segoe UI',Arial,sans-serif;fill:#d0d8e2}
+    .accent{fill:#22d3ee}
+  </style>
+  <rect width="1200" height="210" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="208" rx="17" fill="none" stroke="#173746"/>
+  <circle cx="66" cy="66" r="56" fill="url(#glow)"/>
+
+  <g transform="translate(38 34)">
+    <circle cx="20" cy="18" r="8" fill="none" stroke="#67e8f9" stroke-width="2.2"/>
+    <path d="M6 44c1-11 6-17 14-17s13 6 14 17H6Z" fill="none" stroke="#67e8f9" stroke-width="2.2" stroke-linejoin="round"/>
+    <circle cx="39" cy="5" r="4" class="accent"/>
+  </g>
+
+  <text x="94" y="62" class="heading">About Me</text>
+  <rect x="94" y="77" width="76" height="3" rx="1.5" fill="#22d3ee"/>
+
+  <text x="94" y="111" class="body">
+    <tspan x="94">I&apos;m a Full-Stack Developer specializing in the MERN stack and Next.js ecosystem.</tspan>
+    <tspan x="94" dy="27">I build fast, accessible and maintainable end-to-end applications with clean architecture,</tspan>
+    <tspan x="94" dy="27">secure REST APIs and thoughtful user experiences—while growing through real-world projects.</tspan>
+  </text>
+</svg>

@@ -34,27 +34,27 @@
 
   <rect width="1200" height="820" fill="#070d16"/>
 
-  <!-- About -->
+  <!-- Professional values -->
   <g class="card">
     <rect x="0" y="0" width="378" height="430" rx="22" fill="url(#card)" stroke="#1e3b51"/>
     <circle cx="42" cy="42" r="20" fill="#0b2b39" stroke="#15546a"/>
     <path d="M42 31a7 7 0 1 1 0 14 7 7 0 0 1 0-14Zm-12 28c1-7 6-11 12-11s11 4 12 11" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="76" y="38" class="section">ABOUT</text>
-    <text x="76" y="62" class="title">Who I am</text>
+    <text x="76" y="38" class="section">PROFESSIONAL VALUES</text>
+    <text x="76" y="62" class="title">How I work</text>
     <text x="28" y="118" class="body">
-      <tspan x="28" dy="0">Full-Stack Developer who turns</tspan>
-      <tspan x="28" dy="28">ideas into dependable, scalable</tspan>
-      <tspan x="28" dy="28">and user-friendly web products.</tspan>
-      <tspan x="28" dy="39">I care about clean architecture,</tspan>
-      <tspan x="28" dy="28">secure authentication, thoughtful</tspan>
-      <tspan x="28" dy="28">UI and maintainable code.</tspan>
+      <tspan x="28" dy="0">I approach every feature with</tspan>
+      <tspan x="28" dy="28">clarity, responsibility and a</tspan>
+      <tspan x="28" dy="28">strong focus on real user needs.</tspan>
+      <tspan x="28" dy="39">Clean architecture, secure auth,</tspan>
+      <tspan x="28" dy="28">thoughtful UI and maintainable</tspan>
+      <tspan x="28" dy="28">code guide the way I build.</tspan>
     </text>
     <line x1="28" y1="322" x2="350" y2="322" stroke="#1d3a4e"/>
     <g transform="translate(28 348)">
       <circle cx="7" cy="7" r="6" fill="#22d3ee"/>
-      <text x="24" y="12" class="label">Problem solver</text>
+      <text x="24" y="12" class="label">Reliable problem solver</text>
       <circle cx="7" cy="41" r="6" fill="#38bdf8"/>
-      <text x="24" y="46" class="label">Continuous learner</text>
+      <text x="24" y="46" class="label">Consistent continuous learner</text>
     </g>
   </g>
 

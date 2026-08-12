@@ -19,6 +19,10 @@
 
 <br />
 
+<img src="./assets/about-me.png" width="100%" alt="About Saidul Islam — Full-Stack Developer" />
+
+<br />
+
 <img src="./assets/bento-grid.svg" width="100%" alt="About, current focus, core stack, education and availability" />
 
 <br />
