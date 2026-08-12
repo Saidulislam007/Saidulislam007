@@ -24,3 +24,4 @@ The profile photo is embedded into `assets/hero-banner.png`, so it appears
 inside the banner and renders consistently on GitHub.
 
 The compact professional introduction is rendered from `assets/about-me.png`.
+The compact technology row is rendered from `assets/tech-stack.png`.

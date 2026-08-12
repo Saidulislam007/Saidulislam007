@@ -23,6 +23,10 @@
 
 <br />
 
+<img src="./assets/tech-stack.png" width="100%" alt="Tech Stack: React, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, Firebase and Tailwind CSS" />
+
+<br />
+
 <img src="./assets/bento-grid.svg" width="100%" alt="About, current focus, core stack, education and availability" />
 
 <br />
