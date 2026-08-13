@@ -35,10 +35,6 @@
 
 <br />
 
-<img src="./assets/projects.svg" width="100%" alt="Featured projects: RouteSync, FurniLux, BiblioDrop and MedReserve" />
-
-<br />
-
 ## GitHub activity
 
 <div align="center">
