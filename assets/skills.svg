@@ -1,63 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Technical skills</title>
-  <desc id="desc">Saidul Islam's frontend, backend, database and platform skills.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Tools and Platform</title>
+  <desc id="desc">Saidul Islam's development tools and platforms: Git, GitHub, npm, Vercel, VS Code and deployment workflows.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#07111e"/></linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop stop-color="#22d3ee" stop-opacity=".14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
   </defs>
   <style>
     .eyebrow{font:700 16px 'Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#67e8f9}
     .heading{font:750 26px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
-    .group{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#e0f2fe}
-    .skill{font:550 15px 'Segoe UI',Arial,sans-serif;fill:#b8c6d6}
-    .card{animation:fade 3.8s ease-in-out infinite}.d2{animation-delay:.3s}.d3{animation-delay:.6s}.d4{animation-delay:.9s}
-    .scan{animation:scan 4s linear infinite}
-    .icon{animation:pulse 2.8s ease-in-out infinite}
-    @keyframes fade{0%,100%{opacity:.78}50%{opacity:1}}
-    @keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}
-    @keyframes scan{0%{transform:translateX(-240px)}100%{transform:translateX(1200px)}}
+    .name{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#eaf6ff}
+    .label{font:600 12px 'Segoe UI',Arial,sans-serif;letter-spacing:.5px;fill:#8da6b9}
+    .tool{animation:cardGlow 4s ease-in-out infinite}.d2{animation-delay:.35s}.d3{animation-delay:.7s}.d4{animation-delay:1.05s}.d5{animation-delay:1.4s}.d6{animation-delay:1.75s}
+    .icon{animation:iconPulse 2.8s ease-in-out infinite}.flow{stroke-dasharray:16 12;animation:flow 5s linear infinite}
+    @keyframes cardGlow{0%,100%{opacity:.82}50%{opacity:1}}@keyframes iconPulse{0%,100%{opacity:.68}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-112}}
+    @media (prefers-reduced-motion:reduce){.tool,.icon,.flow{animation:none}}
   </style>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#1e3b51"/>
-  <text x="34" y="42" class="eyebrow">TECHNICAL EXPERTISE</text>
-  <text x="34" y="76" class="heading">One developer. The complete stack.</text>
-  <rect x="34" y="96" width="1132" height="2" fill="#17364b"/>
-  <rect class="scan" x="34" y="96" width="240" height="2" fill="url(#line)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <ellipse cx="1025" cy="42" rx="230" ry="145" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#1e3b51"/>
+  <text x="34" y="42" class="eyebrow">TOOLS &amp; PLATFORM</text>
+  <text x="34" y="76" class="heading">The tools behind my workflow.</text>
+  <path class="flow" d="M34 98H1166" fill="none" stroke="url(#accent)" stroke-width="2"/>
 
-  <g class="card" transform="translate(34 124)">
-    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
-    <circle class="icon" cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M22 34h20M27 27l-7 7 7 7M37 27l7 7-7 7" fill="none" stroke="#22d3ee" stroke-width="2"/>
-    <text x="60" y="40" class="group">Frontend</text>
-    <text x="24" y="85" class="skill">React • Next.js • JavaScript</text>
-    <text x="24" y="119" class="skill">HTML5 • CSS3 • Tailwind CSS</text>
-    <text x="24" y="153" class="skill">Framer Motion • Lucide React</text>
-    <text x="24" y="187" class="skill">Responsive UI • Accessibility</text>
+  <g class="tool" transform="translate(34 124)">
+    <rect width="176" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="88" cy="42" r="23" fill="#0b2c3a"/><path d="M80 34l16 16M80 34l-6 6 16 16 6-6-16-16zm8 8l5-5m-11 11l-5 5" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="88" y="91" class="name" text-anchor="middle">Git</text><text x="88" y="116" class="label" text-anchor="middle">VERSION CONTROL</text>
   </g>
-  <g class="card d2" transform="translate(322 124)">
-    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
-    <circle class="icon" cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M23 26h18v16H23zM27 31h10M27 36h6" fill="none" stroke="#22d3ee" stroke-width="2"/>
-    <text x="60" y="40" class="group">Backend</text>
-    <text x="24" y="85" class="skill">Node.js • Express.js</text>
-    <text x="24" y="119" class="skill">REST API • Middleware</text>
-    <text x="24" y="153" class="skill">JWT • Web Security</text>
-    <text x="24" y="187" class="skill">Authentication • Authorization</text>
+  <g class="tool d2" transform="translate(224 124)">
+    <rect width="176" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="88" cy="42" r="23" fill="#0b2c3a"/><path d="M78 53c-4-3-6-7-6-12 0-9 7-16 16-16s16 7 16 16c0 5-2 9-6 12M81 55v-5c-4 1-6-2-6-2m20 7v-5c4 1 6-2 6-2" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="91" class="name" text-anchor="middle">GitHub</text><text x="88" y="116" class="label" text-anchor="middle">COLLABORATION</text>
   </g>
-  <g class="card d3" transform="translate(610 124)">
-    <rect width="270" height="202" rx="18" fill="#081521" stroke="#194156"/>
-    <circle class="icon" cx="32" cy="34" r="17" fill="#0b2c3a"/><ellipse cx="32" cy="28" rx="9" ry="4" fill="none" stroke="#22d3ee" stroke-width="2"/><path d="M23 28v12c0 5 18 5 18 0V28M23 34c0 5 18 5 18 0" fill="none" stroke="#22d3ee" stroke-width="2"/>
-    <text x="60" y="40" class="group">Database &amp; Services</text>
-    <text x="24" y="85" class="skill">MongoDB • Mongoose</text>
-    <text x="24" y="119" class="skill">Firebase • Data modeling</text>
-    <text x="24" y="153" class="skill">CRUD • Query optimization</text>
-    <text x="24" y="187" class="skill">Secure data workflows</text>
+  <g class="tool d3" transform="translate(414 124)">
+    <rect width="176" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="88" cy="42" r="23" fill="#0b2c3a"/><path d="M72 34h32v16H88v-9h-6v9H72z" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/>
+    <text x="88" y="91" class="name" text-anchor="middle">npm</text><text x="88" y="116" class="label" text-anchor="middle">PACKAGES</text>
   </g>
-  <g class="card d4" transform="translate(898 124)">
-    <rect width="268" height="202" rx="18" fill="#081521" stroke="#194156"/>
-    <circle class="icon" cx="32" cy="34" r="17" fill="#0b2c3a"/><path d="M25 28h14v13H25zM28 25v3M36 25v3M28 44v-3M36 44v-3" fill="none" stroke="#22d3ee" stroke-width="2"/>
-    <text x="60" y="40" class="group">Tools &amp; Platform</text>
-    <text x="24" y="85" class="skill">Git • GitHub • npm</text>
-    <text x="24" y="119" class="skill">Vercel • VS Code</text>
-    <text x="24" y="153" class="skill">Deployment • Environment vars</text>
-    <text x="24" y="187" class="skill">Clean and reusable workflows</text>
+  <g class="tool d4" transform="translate(604 124)">
+    <rect width="176" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="88" cy="42" r="23" fill="#0b2c3a"/><path d="M88 26l16 28H72z" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/>
+    <text x="88" y="91" class="name" text-anchor="middle">Vercel</text><text x="88" y="116" class="label" text-anchor="middle">HOSTING</text>
+  </g>
+  <g class="tool d5" transform="translate(794 124)">
+    <rect width="176" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="88" cy="42" r="23" fill="#0b2c3a"/><path d="M75 36l8 6-8 6-5-5v-2l5-5zm8 6l14-12 7 3v18l-7 3-14-12z" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/>
+    <text x="88" y="91" class="name" text-anchor="middle">VS Code</text><text x="88" y="116" class="label" text-anchor="middle">DEVELOPMENT</text>
+  </g>
+  <g class="tool d6" transform="translate(984 124)">
+    <rect width="182" height="140" rx="18" fill="#081521" stroke="#1b465c"/>
+    <circle class="icon" cx="91" cy="42" r="23" fill="#0b2c3a"/><path d="M79 47l12-17 12 17M91 30v25M82 52h18" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="91" y="91" class="name" text-anchor="middle">Deployment</text><text x="91" y="116" class="label" text-anchor="middle">PRODUCTION</text>
   </g>
 </svg>
