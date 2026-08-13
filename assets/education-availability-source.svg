@@ -16,7 +16,7 @@
     .heading{font:750 27px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
     .degree{font:700 22px 'Segoe UI',Arial,sans-serif;fill:#eef2f7}
     .body{font:400 17px 'Segoe UI',Arial,sans-serif;fill:#a9b8c8}
-    .status{font:750 25px 'Segoe UI',Arial,sans-serif;fill:#38bdf8}
+    .status{font:750 22px 'Segoe UI',Arial,sans-serif;fill:#38bdf8}
     .cardTitle{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#dbeafe}
     .small{font:400 15px 'Segoe UI',Arial,sans-serif;fill:#91a4b8}
     .buttonText{font:750 16px 'Segoe UI',Arial,sans-serif;fill:#04111d}
@@ -25,7 +25,7 @@
 
   <!-- Education -->
   <g>
-    <rect width="770" height="390" rx="22" fill="url(#bg)" stroke="#1e3b51"/>
+    <rect width="744" height="390" rx="22" fill="url(#bg)" stroke="#1e3b51"/>
     <circle cx="44" cy="46" r="21" fill="#0b2b39" stroke="#15546a"/>
     <path d="m30 42 14-8 14 8-14 8-14-8Zm5 5v10c6 5 12 5 18 0V47" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linejoin="round"/>
     <text x="80" y="42" class="eyebrow">EDUCATION</text>
@@ -50,19 +50,19 @@
   </g>
 
   <!-- Availability -->
-  <g transform="translate(788)">
-    <rect width="412" height="390" rx="22" fill="url(#bg)" stroke="#1e4c63"/>
-    <circle cx="44" cy="46" r="21" fill="#0b2b39" stroke="#15546a"/>
-    <circle cx="44" cy="46" r="8" fill="#22c55e"/>
-    <text x="80" y="42" class="eyebrow">AVAILABILITY</text>
-    <text x="28" y="114" class="status">Open to new opportunities</text>
-    <text x="28" y="150" class="body">Full-time • Internship • Remote</text>
+  <g transform="translate(762)">
+    <rect width="438" height="390" rx="22" fill="url(#bg)" stroke="#1e4c63"/>
+    <circle cx="38" cy="46" r="21" fill="#0b2b39" stroke="#15546a"/>
+    <circle cx="38" cy="46" r="8" fill="#22c55e"/>
+    <text x="74" y="42" class="eyebrow">AVAILABILITY</text>
+    <text x="34" y="114" class="status">Open to new opportunities</text>
+    <text x="34" y="150" class="body">Full-time • Internship • Remote</text>
 
-    <rect x="28" y="188" width="356" height="86" rx="16" fill="#071b27" stroke="#1f5267"/>
-    <text x="52" y="222" class="cardTitle">Recruiter-friendly profile</text>
-    <text x="52" y="248" class="small">Ready to contribute, learn and ship.</text>
+    <rect x="34" y="188" width="370" height="86" rx="16" fill="#071b27" stroke="#1f5267"/>
+    <text x="60" y="222" class="cardTitle">Recruiter-friendly profile</text>
+    <text x="60" y="248" class="small">Ready to contribute, learn and ship.</text>
 
-    <rect x="28" y="307" width="356" height="54" rx="15" fill="url(#button)"/>
-    <text x="112" y="341" class="buttonText">LET&apos;S BUILD TOGETHER  →</text>
+    <rect x="34" y="307" width="370" height="54" rx="15" fill="url(#button)"/>
+    <text x="119" y="341" class="buttonText">LET&apos;S BUILD TOGETHER  →</text>
   </g>
 </svg>
