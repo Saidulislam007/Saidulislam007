@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Education and Availability</title>
+  <desc id="desc">Saidul Islam's academic background and current work availability.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071321"/>
+      <stop offset="1" stop-color="#061019"/>
+    </linearGradient>
+    <linearGradient id="button" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .eyebrow{font:700 17px 'Segoe UI',Arial,sans-serif;letter-spacing:1.1px;fill:#67e8f9}
+    .heading{font:750 27px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
+    .degree{font:700 22px 'Segoe UI',Arial,sans-serif;fill:#eef2f7}
+    .body{font:400 17px 'Segoe UI',Arial,sans-serif;fill:#a9b8c8}
+    .status{font:750 25px 'Segoe UI',Arial,sans-serif;fill:#38bdf8}
+    .cardTitle{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#dbeafe}
+    .small{font:400 15px 'Segoe UI',Arial,sans-serif;fill:#91a4b8}
+    .buttonText{font:750 16px 'Segoe UI',Arial,sans-serif;fill:#04111d}
+  </style>
+  <rect width="1200" height="390" rx="22" fill="#050b12"/>
+
+  <!-- Education -->
+  <g>
+    <rect width="770" height="390" rx="22" fill="url(#bg)" stroke="#1e3b51"/>
+    <circle cx="44" cy="46" r="21" fill="#0b2b39" stroke="#15546a"/>
+    <path d="m30 42 14-8 14 8-14 8-14-8Zm5 5v10c6 5 12 5 18 0V47" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linejoin="round"/>
+    <text x="80" y="42" class="eyebrow">EDUCATION</text>
+    <text x="80" y="70" class="heading">Academic background</text>
+
+    <path d="M62 119v210" stroke="#1f5369" stroke-width="2"/>
+    <g transform="translate(62 137)">
+      <circle r="9" fill="#22d3ee"/>
+      <text x="32" y="-2" class="degree">B.Sc. Honours in Mathematics</text>
+      <text x="32" y="26" class="body">Structured thinking • analytical problem-solving • logic</text>
+    </g>
+    <g transform="translate(62 226)">
+      <circle r="9" fill="#38bdf8"/>
+      <text x="32" y="-2" class="degree">Higher Secondary Certificate (HSC)</text>
+      <text x="32" y="26" class="body">Completed academic higher-secondary education</text>
+    </g>
+    <g transform="translate(62 315)">
+      <circle r="9" fill="#60a5fa"/>
+      <text x="32" y="-2" class="degree">Secondary School Certificate (SSC)</text>
+      <text x="32" y="26" class="body">Completed secondary education</text>
+    </g>
+  </g>
+
+  <!-- Availability -->
+  <g transform="translate(788)">
+    <rect width="412" height="390" rx="22" fill="url(#bg)" stroke="#1e4c63"/>
+    <circle cx="44" cy="46" r="21" fill="#0b2b39" stroke="#15546a"/>
+    <circle cx="44" cy="46" r="8" fill="#22c55e"/>
+    <text x="80" y="42" class="eyebrow">AVAILABILITY</text>
+    <text x="28" y="114" class="status">Open to new opportunities</text>
+    <text x="28" y="150" class="body">Full-time • Internship • Remote</text>
+
+    <rect x="28" y="188" width="356" height="86" rx="16" fill="#071b27" stroke="#1f5267"/>
+    <text x="52" y="222" class="cardTitle">Recruiter-friendly profile</text>
+    <text x="52" y="248" class="small">Ready to contribute, learn and ship.</text>
+
+    <rect x="28" y="307" width="356" height="54" rx="15" fill="url(#button)"/>
+    <text x="112" y="341" class="buttonText">LET&apos;S BUILD TOGETHER  →</text>
+  </g>
+</svg>

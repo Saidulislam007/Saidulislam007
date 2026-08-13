@@ -27,7 +27,7 @@
 
 <br />
 
-<img src="./assets/bento-grid.svg" width="100%" alt="About, current focus, core stack, education and availability" />
+<img src="./assets/education-availability.png" width="100%" alt="Saidul Islam's academic background and availability" />
 
 <br />
 

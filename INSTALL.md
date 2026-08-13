@@ -25,3 +25,4 @@ inside the banner and renders consistently on GitHub.
 
 The compact professional introduction is rendered from `assets/about-me.png`.
 The compact technology row is rendered from `assets/tech-stack.png`.
+Education and availability are rendered from `assets/education-availability.png`.
